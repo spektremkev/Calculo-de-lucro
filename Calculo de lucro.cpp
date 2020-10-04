@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-int main(void)<%
+int main(void){
 
     float preco;
 
@@ -13,4 +13,4 @@ int main(void)<%
 	else <% printf( "VALOR DE VENDA : %.2f\n", preco * 1.40); %>
 
     return(0);
-%>
+}
