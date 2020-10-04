@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-
-ATIVIDADE I  - QUESTÃO 6
-
-*/
 
 int main(void)<%
 
